@@ -1,4 +1,4 @@
-## Lucas Lallier-Ginoux — test audio et développement de plugins
+## Lucas Lallier-Ginoux — Music stuff et développement de plugins en vibecodant
 
 Producteur depuis 2021 mais musicien autodidacte depuis l'enfance, je conçois des plugins
 audio VST3 en C++ / JUCE grâce à l'IA et je les valide : protocoles de mesure écrits, cibles
