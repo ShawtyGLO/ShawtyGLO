@@ -4,8 +4,7 @@ Producteur depuis 2021 mais musicien autodidacte depuis l'enfance, je conçois d
 audio VST3 en C++ / JUCE grâce à l'IA et je les valide : protocoles de mesure écrits, cibles
 chiffrées, comparaisons d'écoute égalisées en niveau, points de non-régression.
 
-J'ai été bêta-testeur pour **Arturia** (Rev Ocean, moteur FM de Pigments) et pour d'autres
-éditeurs. Ce que j'aime dans le test, c'est la decouverte,l'expérimentation et la possibilité de faire évoluer un projet de ces balbutiments vers la version publique.
+Je suis aussi bêta-testeur; ce que j'aime dans le test, c'est la decouverte,l'expérimentation et la possibilité de faire évoluer un projet de ces balbutiments vers la version publique.
 
 ### Ma méthode
 
