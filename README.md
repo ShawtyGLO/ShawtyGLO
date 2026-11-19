@@ -4,7 +4,7 @@ Producteur depuis 2021 mais musicien autodidacte depuis l'enfance, je conçois d
 audio VST3 en C++ / JUCE grâce à l'IA et je les valide : protocoles de mesure écrits, cibles
 chiffrées, comparaisons d'écoute égalisées en niveau, points de non-régression.
 
-Je suis aussi bêta-testeur; ce que j'aime dans le test, c'est la decouverte,l'expérimentation et la possibilité de faire évoluer un projet de ces balbutiments vers la version publique.
+Je suis aussi bêta-testeur : ce que j'aime dans le test, c'est la découverte, l'expérimentation, et la possibilité de faire évoluer un projet de ses balbutiements jusqu'à la version publique.
 
 ### Ma méthode
 
@@ -18,11 +18,11 @@ Je suis aussi bêta-testeur; ce que j'aime dans le test, c'est la decouverte,l'e
 
 ### Projets publiés
 
-- **[LuxRev-1](https://github.com/ShawtyGLO/LuxRev-1)** — réverbe algorithmique conçue sur quatorze cibles mesurées, avec protocole de mesure et point de référence validé, dans l'esprit des réverbes numériques des années 80/90 .
+- **[LuxRev-1](https://github.com/ShawtyGLO/LuxRev-1)** — réverbe algorithmique conçue sur quatorze cibles mesurées, avec protocole de mesure et point de référence validé, dans l'esprit des réverbes numériques des années 80/90.
 - **[PRISME](https://github.com/ShawtyGLO/PRISME)** — du mix au mastering, une cinquantaine de scripts de banc, recettes rejouables à l'identique. 
 - **[Digitape](https://github.com/ShawtyGLO/Digitape)** — varispeed, delay et réverbe : l'ADN d'un Space-Echo repensé en mécanismes numériques.
 - **[SYN-DRUM](https://github.com/ShawtyGLO/SYN-DRUM)** — synthétiseur de percussions par modèle physique, versionné, avec note de compatibilité au renommage.
-- **[ROMANCE](https://github.com/ShawtyGLO/ROMANCE)** — Synthése typé rompleur dont une recherche hors-ligne fabrique une resynthése.
+- **[ROMANCE](https://github.com/ShawtyGLO/ROMANCE)** — synthèse typée rompleur, dont une recherche hors-ligne fabrique la resynthèse.
 - **[InvisibleFix](https://github.com/ShawtyGLO/CODE-InvisibleFix)** — réparation vocale : de-reverb, gate, nettoyage, air. Mon tout premier plugin.
 
 ### Projets pas encore publiés
@@ -38,10 +38,10 @@ une douzaine d'autres. Dix-sept plugins en tout.
 
 ### Outils
 
-C++ · JUCE · VST3 · Python pour les bancs de mesure · FL Studio 25 · Windows 11 ·
+C++ · JUCE · VST3 · Python pour les bancs de mesure · FL Studio 25 · Ableton Live Lite · Windows 11 ·
 [pluginval](https://github.com/Tracktion/pluginval) 
 
-Important: Je m'occupe des projets, des test et de la partie création à 100%, mais je suis assisté par IA pour l'écriture du code
+Important: Je m'occupe des projets, des tests et de la partie création à 100 %, mais je suis assisté par IA pour l'écriture du code
 
 ---
 
